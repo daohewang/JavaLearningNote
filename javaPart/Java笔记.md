@@ -96,7 +96,7 @@ String str4 = "hello";
 
 对于引用类型来说，`==`是进行地址值的比较
 
-![String](../noteImg/java/String.png)
+![String](https://github.com/daohewang/JavaLearningNote/blob/master/noteImg/Java/String.png?raw=true)
 
 
 
@@ -155,7 +155,7 @@ String当中与转换相关的常用方法：
 
 ### static关键字
 
-![static图解](../noteImg/java/static.png)  
+![static图解](https://github.com/daohewang/JavaLearningNote/blob/master/noteImg/Java/static.png?raw=true)  
 
 - 如果一个成员变量使用了static关键字，那么这个变量不再属于对象自己，而是属于所在的类。多个对象共享同一份数据。
 - 一旦使用static修饰成员方法 ，那么这就成为了静态方法。静态方法不属于对对象，而属于类 
